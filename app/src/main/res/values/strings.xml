@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GPay</string>
+    <string name="first">first</string>
+    <string name="search">Pay Anyone on UPI</string>
+    <string name="scan">scan</string>
+    <string name="contact">contact</string>
+    <string name="phone">phone</string>
+    <string name="bank">bank</string>
+    <string name="pay">Pay Contact</string>
+    <string name="number">Pay Number</string>
+    <string name="transfer">Bank Transfer</string>
+    <string name="upi">Pay Upi ID</string>
+    <string name="self">Self Transfer</string>
+    <string name="bill"> Pay bills</string>
+    <string name="mobile">Recharge</string>
+    <string name="people">people</string>
+    <string name="ahesan">Ahesan</string>
+    <string name="shahan">Shahan</string>
+    <string name="ashar">Ashar</string>
+    <string name="aman">Ajaz sir</string>
+    <string name="bills">Bills $ Recharge </string>
+    <string name="no">No bills due</string>
+    <string name="fast">FastTag</string>
+    <string name="credit">Credit Card</string>
+    <string name="dth">DTH/Cable TV</string>
+    <string name="view">View All</string>
+    <string name="offer">Offer $ Rewards</string>
+    <string name="reward">Rewards</string>
+    <string name="Offers">Offers</string>
+    <string name="ref">Referrals</string>
+    <string name="v">Manage Your Money </string>
+    <string name="se">See Transaction History</string>
+    <string name="check">Check Bank Balance</string>
+    <string name="invite">Invite Friend To get $100</string>
+</resources>
